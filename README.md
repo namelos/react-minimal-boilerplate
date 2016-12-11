@@ -8,4 +8,4 @@ cd react-minimal-boilerplate
 npm install
 npm start
 ```
-And then you could see some page rendered by react.
+And then you could see a page rendered by react.
